@@ -1,0 +1,13 @@
+Reference,Qty,Value,DNP,LCSC Part,Manufacturer_Part_Number,Mouser Part Number,Datasheet
+"C1,C10",2,470uF/16v,,,EEE-FN1C470UR,667-EEE-FN1C470UR,http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1259.pdf
+"C2,C7",2,10uF,,,0603YD106KAT2A,581-0603YD106KAT2A,https://www.mouser.at/datasheet/2/40/cx5r-776519.pdf
+"C3,C4,C5,C6,C8,C9",6,.1uF,,,0603YC104J4T2A,581-0603YC104J4T2A,https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf
+"D1,D2",2,USBLC6-2SC6,,C7519,,,https://lcsc.com/product-detail/Diodes-ESD_STMicroelectronics_USBLC6-2SC6_USBLC6-2SC6_C7519.html
+IC1,1,MIE1W0505BGLVH-3R-P,,,MIE1W0505BGLVH-3R-P,946-MIE1W0505BGLVH3P,https://www.mouser.de/datasheet/2/277/MIE1W0505BGLVH-3392698.pdf
+"L1,L2",2,WE-CNSW_1206,,,744232090,710-744232090,https://www.we-online.com/components/products/datasheet/744232090.pdf
+"LED1,LED2",2,RED,,,KS EELP41.22-P1R2-58-A8J8-020-R18,720-P412P1R258A8J802,
+"R1,R8,R9,R10,R11",5,1K,,,RT0603FRE071KL,603-RT0603FRE071KL,https://componentsearchengine.com/Datasheets/2/RT0603FRE071KL.pdf
+"R2,R3,R4,R6",4,0R,,C95177,RC0603FR-070RL,603-RC0603FR-070RL,https://componentsearchengine.com/Datasheets/2/RC0603FR-070RL.pdf
+U1,1,ADUM3160BRWZ,,C108501,,,https://lcsc.com/product-detail/USB_ADI_ADUM3160BRWZ_ADUM3160BRWZ_C108501.html
+USB1,1,USB-B01,,C498173,,,https://lcsc.com/product-detail/New-Arrivals_SOFNG-USB-B01_C498173.html
+USB2,1,U-USBAR04P-F001,,C386736,,,https://lcsc.com/product-detail/USB-Connectors_Shenzhen-Cankemeng-U-USBAR04P-F001_C386736.html
